@@ -1,5 +1,7 @@
 # Svelte + Vite
 
+This is an ongoing project where i am trying to clone a website usinge Svelte + vite, this incorporates html and css
+
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
